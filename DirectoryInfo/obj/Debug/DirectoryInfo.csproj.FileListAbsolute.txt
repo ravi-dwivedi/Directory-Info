@@ -1,0 +1,6 @@
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe.config
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.csprojResolveAssemblyReference.cache
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\bin\Debug\DirectoryInfo.pdb
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.exe
+c:\users\ravidwivedi\documents\visual studio 2013\Projects\DirectoryInfo\DirectoryInfo\obj\Debug\DirectoryInfo.pdb
